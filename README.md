@@ -7,16 +7,18 @@ Comfortable anywhere in the stack, happiest shipping features that work.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="48" height="48" title="Python"/>
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="48" height="48" title="TypeScript"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="48" title="React"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="48" height="48" title="Node.js"/>
-<img src="https://www.vectorlogo.zone/logos/flutter/flutter-icon.svg" alt="Flutter" width="48" height="48" title="Flutter"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="48" height="48" title="MySQL"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="48" height="48" title="Docker"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" title="Git"/>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="48" height="48" title="Python"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="48" height="48" title="TypeScript"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="48" title="React"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="48" height="48" title="Node.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48" title="Flutter"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="48" height="48" title="MySQL"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="48" height="48" title="Docker"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" title="Git"/>
+</p>
 
 | | |
 |---|---|
