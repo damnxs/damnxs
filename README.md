@@ -1,9 +1,8 @@
-# Hey there, I'm **damnxs** 👋
+# Hey there, I'm **Fazzil** !
 
 ## Full Stack Engineer
 
-I build things end to end — from database schema to the last pixel on screen.
-Comfortable anywhere in the stack, happiest shipping features that work.
+I build things end to end, from wireframes to working products. Comfortable across the stack, happiest when things actually ship.
 
 ---
 
@@ -29,20 +28,14 @@ Comfortable anywhere in the stack, happiest shipping features that work.
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=damnxs&show_icons=true&theme=default&hide_border=true" alt="damnxs's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damnxs&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
-
----
 
 ### Reach Me
 
-<a href="https://github.com/damnxs">
-  <img src="https://img.shields.io/badge/GitHub-damnxs-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+<p>
+  <a href="https://github.com/damnxs"><img src="https://img.shields.io/badge/GitHub-damnxs-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://instagram.com/dimsfazzil"><img src="https://img.shields.io/badge/Instagram-dimsfazzil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/dimsfazzil"><img src="https://img.shields.io/badge/LinkedIn-dimsfazzil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ---
 
